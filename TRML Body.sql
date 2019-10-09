@@ -11085,7 +11085,7 @@ procedure generaPropNotifMultas ( in_lbrid in  number,
                                   in_usuidmod in  number,
                                   in_sysdate in  date,
                                   in_motivo in  varchar2,
-                                  out_procesados out number    ,
+                                  out_procesados out number,
                                   out_salida out varchar2
                                   ) is
 
